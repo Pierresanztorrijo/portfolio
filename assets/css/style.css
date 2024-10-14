@@ -402,7 +402,7 @@ section {
 }
 
 .section-bg {
-  background-color: grey;
+  background-color: black;
 }
 
 .section-title {
@@ -633,7 +633,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #ffb727;
+  background-color: #2986cc;
 }
 
 /*--------------------------------------------------------------
